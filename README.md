@@ -5,8 +5,10 @@
 
 This project presents the development of an **advanced robot car** that combines **hand gesture control** with **autonomous navigation capabilities**, creating a versatile and interactive robotic platform. Using an **MPU6050 sensor** for real-time gesture recognition and **Arduino microcontrollers** for processing, users can seamlessly guide the robot manually or switch to fully autonomous modes depending on environmental conditions.
 
-![Image 1](4.png)      ![Image 2](5.png) 
-
+<p align="center">
+  <img src="4.png" width="40%">
+  <img src="5.png" width="40%">
+</p>
 
 ---
 
